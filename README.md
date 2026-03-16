@@ -76,7 +76,3 @@ Sou **Software Engineer** com foco em back-end e arquitetura de sistemas. Entreg
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviocanedo) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flaviocanedo)
-
----
-
-Se quiser, eu já atualizo este README com os badges específicos de build/coverage, ou gero uma versão em inglês pronta para usar.
