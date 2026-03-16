@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flavio%20Canedo%20de%20Lima&fontSize=40&fontAlignY=35)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Engenheiro+de+Software;Especialista+em+.NET+e+Angular;Apaixonado+por+Arquitetura+de+Software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Engenheiro+de+Software;Especialista+em+.NET;Apaixonado+por+Arquitetura+de+Software)
 
 ---
 
