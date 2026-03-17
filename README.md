@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Flavio Canedo de Lima
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flavio%20Canedo%20de%20Lima&fontSize=40&fontAlignY=35)
+![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceab6b05-066e-4f6b-82ab-d8d718e2cbb5/da69dzf-11f146e8-481e-4ace-bfea-2a8fa094a416.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZWFiNmIwNS0wNjZlLTRmNmItODJhYi1kOGQ3MThlMmNiYjUvZGE2OWR6Zi0xMWYxNDZlOC00ODFlLTRhY2UtYmZlYS0yYThmYTA5NGE0MTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ab6bckNdg1gra4Usbsb9_X1FU2oeLgZnbW9YP_zpxqU)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Engenheiro+de+Software;Especialista+em+.NET;Apaixonado+por+Arquitetura+de+Software)
 
